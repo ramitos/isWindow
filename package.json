@@ -1,0 +1,13 @@
+{
+  "name": "isWindow",
+  "version": "0.0.1",
+  "description": "jquery based isWindow",
+  "repo": "ramitos/isWindow",
+  "keywords": ["window", "isWindow"],
+  "homepage": "https://github.com/ramitos/isWindow",
+  "license": "MIT",
+  "author": "Sérgio Ramos <mail@sergioramos.me> (http://sergioramos.me)",
+  "twitter": "@ramitos",
+  "main": "src/isWindow.js",
+  "scripts": ["src/isWindow.js"]
+}
